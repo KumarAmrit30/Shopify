@@ -52,7 +52,9 @@ The app follows a clean and minimalistic design approach, using Compose's layout
 
 Potential Improvements:
 
-•Future enhancements could include:
 •Adding persistent storage (e.g., using Room or DataStore) to save the shopping list items across app restarts.
+
 •Implementing more complex item properties, such as categories or priorities.
+
 •Enhancing the UI with more advanced Compose features and animations.
+
