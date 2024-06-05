@@ -3,6 +3,7 @@ Project Name: Shopify
 Technologies Used:
 
 Programming Language: Kotlin
+
 Framework: Jetpack Compose
 
 Project Overview:
